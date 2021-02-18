@@ -8,7 +8,7 @@ My channel [here](https://www.youtube.com/channel/UCJRGVS2h34dNVeunKcik8HQ)
 
 ## My Discord
 
-If you would like to join to my community, go [here] (https://discord.gg/TEDhJE8n)
+If you would like to join to my community, go [here](https://discord.gg/TEDhJE8n)
 
 ### Donate
 
