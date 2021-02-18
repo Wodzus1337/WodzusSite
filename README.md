@@ -12,4 +12,4 @@ If you would like to join to my community, go [here](https://discord.gg/TEDhJE8n
 
 ### Donate
 
-Please donate me I need help, [here](https://tipply.pl/u/wodzus)
+Please donate me I need help. [$$$](https://tipply.pl/u/wodzus)
