@@ -38,5 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [chuj](www.youtube.com)
 
 #siemano
-Ferolek to mały gnojek i tak
-##Subscribe
+
+**Ferolek** to mały _gnojek_ i tak
+
+  ##[Subscribe](https://www.youtube.com/channel/UCJRGVS2h34dNVeunKcik8HQ)
