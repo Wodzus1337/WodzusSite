@@ -37,8 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 [chuj](www.youtube.com)
 
-#siemano
+# siemano
 
 **Ferolek** to mały _gnojek_ i tak
 
-  ##[Subscribe](https://www.youtube.com/channel/UCJRGVS2h34dNVeunKcik8HQ)
+  ## [Subscribe](https://www.youtube.com/channel/UCJRGVS2h34dNVeunKcik8HQ)
